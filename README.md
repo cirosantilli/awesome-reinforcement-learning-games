@@ -18,10 +18,22 @@ The loop is:
 
 The idea is that the GPU is the most promising computational breakthrough of our time, and might be the first thing that allows us to reach the critical speed / cost point needed for full AI.
 
+## Game mechanic
+
 One important part of the project is the choice of the game world. Good game concepts should mimic key aspects of simple real robots / animals:
 
-- first person with perspective
+- first person with perspective, possibly 2D to simplify as in <http://blog.otoro.net/2015/05/07/creatures-avoiding-planks/>
 - goals similar to those of simple animals: eat, don't get eaten, find resources
+
+Some ideas:
+
+-   you are a starving predator and you see a single prey turning around a corner.
+
+    The robot should have memory that he is chasing this single prey, and some type of understanding that things disappear from sight around corners, and then turn the corner as well.
+
+-   associate discreet actions and consequences. E.g.: you touch a red wall: then a blue gate opens.
+
+-   tooling (e.g. Minecraft). The robot could have a single hand and a choice of tool to use. Then it would have to use a given tool for certain types of jobs (which it has to recognize).
 
 ## Mixing stuff
 
@@ -56,6 +68,7 @@ Existing research in the area.
 
 Possible games we could use.
 
+-   <http://blog.otoro.net/2015/05/07/creatures-avoiding-planks/> 2D with perspective.
 -   <http://www.webearthonline.com/>
 -   <https://en.wikipedia.org/wiki/Life_simulation_game>
     -   3d first person:
@@ -68,12 +81,20 @@ Possible games we could use.
         - <https://en.wikipedia.org/wiki/Lion_%28video_game%29>
         - gameplay <https://www.youtube.com/watch?v=opDch4j8Bt8>
     -   <http://agar.io/>
--   tier 2
+-   tier 2 / under evaluation
     -   https://www.youtube.com/watch?v=gYZyyWwqdiw
     -   http://jobsimulatorgame.com/
     -   baking simulator https://www.youtube.com/watch?v=qqwAnDgsi6Y
     -   Pet simulator <https://www.youtube.com/watch?v=gYZyyWwqdiw>
     -   http://boards.straightdope.com/sdmb/showthread.php?t=614572
+    -   2D animal simulations
+        -   http://otoro.net/planks/
+        -   2D fish simulator: https://www.youtube.com/watch?v=TTj6F1OaK0A
+        -   2D bird swarm simulation https://www.youtube.com/watch?v=M028vafB0l8
+        -   evolution body structure
+            - carykh car evolution simulator https://www.youtube.com/watch?v=GOFws_hhZs8
+        -   evolution of brain:
+            - Evolved Step Climbing Creatures https://www.youtube.com/watch?v=euFvRfQRbLI
 
 ### Others
 
