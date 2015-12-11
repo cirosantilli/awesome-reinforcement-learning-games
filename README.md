@@ -35,6 +35,15 @@ Some ideas:
 
 -   tooling (e.g. Minecraft). The robot could have a single hand and a choice of tool to use. Then it would have to use a given tool for certain types of jobs (which it has to recognize).
 
+-   topology:
+
+    - two preys go into a closed cave. I enter and eat 2 preys. So then I should go out to find more.
+    - I see a prey through a hole in the wall. The hole is too small for me to get in. So I must find another way.
+
+-   thinking like someone else: if prey sees me, it runs away. So I find a way to approach without being seen.
+
+-   recognizing places: there is lots of food around the place with two trees. So I hang out around that place more often than others.
+
 ## Mixing stuff
 
 The key technical challenge of this project is keeping all calculations inside the GPU:
