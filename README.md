@@ -31,6 +31,8 @@ Some ideas:
 
     The robot should have memory that he is chasing this single prey, and some type of understanding that things disappear from sight around corners, and then turn the corner as well.
 
+    There is a name in psychology for this ability: <https://en.wikipedia.org/wiki/Object_permanence>
+
 -   associate discreet actions and consequences. E.g.: you touch a red wall: then a blue gate opens.
 
 -   tooling (e.g. Minecraft). The robot could have a single hand and a choice of tool to use. Then it would have to use a given tool for certain types of jobs (which it has to recognize).
