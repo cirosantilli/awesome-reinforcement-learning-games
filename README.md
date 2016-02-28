@@ -57,6 +57,9 @@ The key technical challenge of this project is keeping all calculations inside t
 
 Existing research in the area.
 
+-   <http://gvgai.net/>
+    - <http://togelius.blogspot.com.br/2016/01/why-video-games-are-essential-for.html>
+    - <https://www.reddit.com/r/artificial/comments/40kg3b/why_video_games_are_essential_for_inventing/>
 -   <http://www.doc.ic.ac.uk/teaching/distinguished-projects/2011/p.lipka.pdf>
     - <https://www.linkedin.com/in/peter-lipka-763aba5b>
     - <http://improbable.io/> Saw this on TechCrunch before. Hot stuff.
@@ -72,6 +75,14 @@ Existing research in the area.
     - <https://www.youtube.com/watch?v=xOCurBYI_gY>
 -   <https://www.youtube.com/watch?v=bBZ7kEphv3s> Mario AI
 -   <http://code.tutsplus.com/tutorials/how-to-build-a-python-bot-that-can-play-web-games--active-11117>
+-   <https://developer.nvidia.com/gpu-ai-board-games>
+-   <https://www.reddit.com/r/pcgaming/comments/2vwx06/would_it_be_possible_for_a_game_to_run_100_on_the/>
+    - <http://stackoverflow.com/questions/1789178/can-you-program-a-pure-gpu-game>
+    - <http://gamedev.stackexchange.com/questions/60776/gpgpu-physics-game-logic>
+-   proprietary physics engines:
+    -   <https://en.wikipedia.org/wiki/PhysX>
+        - 2014 demo <https://www.youtube.com/watch?v=6vipmar3wS4>, lots of fluids.
+    -   <http://www.havok.com/physics/>
 
 ## Possible games
 
@@ -132,3 +143,5 @@ Understanding animals could give insights into what our OpenCL intelligence shou
         - 3 tools in sequence: <https://www.youtube.com/watch?v=41Z6Mvjd9w0>
 -   tier 2
     - bear turns off electric power to eat deer: <https://www.youtube.com/watch?v=8eC9ZmCaIWY&feature=youtu.be>
+-   young humans:
+    - <https://www.youtube.com/watch?v=R9QSBUrf94s>
