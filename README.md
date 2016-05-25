@@ -41,7 +41,7 @@ The game / AI loop is:
         - OpenCL / OpenGL bridges for rendered pixels
         - physics engine GPU / OpenCL bridges
     -   use custom OpenCL to make the decisions as much as possible
-        -   many useful libraries now have GPU support,  e.g. OpenCV and[cuDNN](https://developer.nvidia.com/cudnn) on CUDA
+        -   many useful libraries now have GPU support,  e.g. OpenCV and [NVIDIA cuDNN](https://developer.nvidia.com/cudnn), [NVIDIA VisionWorks](https://developer.nvidia.com/embedded/visionworks) on CUDA
 
     Outputs:
 
@@ -107,6 +107,11 @@ Existing research in the area.
     - <https://www.reddit.com/r/artificial/comments/40kg3b/why_video_games_are_essential_for_inventing/>
     - <http://togelius.blogspot.fr/2016/03/switching-brains-and-putting-cart.html>
 -   FPS
+    -   2Ds are called top down shooters
+    -   <http://vizdoom.cs.put.edu.pl/competition-cig-2016>
+        -   By people of Poznam, Poland:
+            - https://github.com/Marqt
+            - https://github.com/ebonyclock
     -   <http://botprize.org/>
         - <https://www.youtube.com/watch?v=mUNfjMDhCpM>
     -   <http://www.doc.ic.ac.uk/teaching/distinguished-projects/2011/p.lipka.pdf>
@@ -226,6 +231,10 @@ The key technical challenge of this project is keeping all calculations inside t
 ### Engines that allow to take the image from games
 
 - <http://code.tutsplus.com/tutorials/how-to-build-a-python-bot-that-can-play-web-games--active-11117>
+
+## Events
+
+- <http://cig16.image.ece.ntua.gr/> University in Greece
 
 ## Misc
 
