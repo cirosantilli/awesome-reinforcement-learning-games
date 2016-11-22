@@ -179,6 +179,7 @@ Possible games we could use.
         - https://www.youtube.com/watch?v=KBb9wFP7uZM
         - https://www.youtube.com/watch?v=U1ojNtSZIjI
         - https://www.youtube.com/watch?v=95anZ3aWw0E
+    -   wolfenstein 1D (but in wrong axis to what I want...) http://www.wonder-tonic.com/wolf1d/
     -   non playable by Machima:
         - sonic https://www.youtube.com/watch?v=JlWnShSe6e8
         - street fighter https://www.youtube.com/watch?v=tLOlXozCzjk
