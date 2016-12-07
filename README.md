@@ -106,7 +106,8 @@ Existing research in the area.
     - <http://www.machinegame.com/> <https://www.reddit.com/r/programming/comments/5fjjej/i_made_this_a_multiplayer_game_where_you_code_to/>
     - <http://www.halite.io/>
     - <http://www.codetition.com/>
--   <http://gvgai.net/>
+-   <http://togelius.blogspot.co.uk/2016/07/which-games-are-useful-for-testing.html>
+    -   <http://gvgai.net/>
 -   <http://togelius.blogspot.com.br/2016/01/why-video-games-are-essential-for.html> Researcher on this exact domain.
     - <https://www.reddit.com/r/artificial/comments/40kg3b/why_video_games_are_essential_for_inventing/>
     - <http://togelius.blogspot.fr/2016/03/switching-brains-and-putting-cart.html>
