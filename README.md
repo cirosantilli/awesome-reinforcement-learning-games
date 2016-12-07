@@ -102,6 +102,10 @@ Mechanics ideas:
 Existing research in the area.
 
 -   <https://en.wikipedia.org/wiki/Competitions_and_prizes_in_artificial_intelligence#Games>
+    - <https://www.quora.com/What-are-the-most-interesting-online-AI-competitions>
+    - <http://www.machinegame.com/> <https://www.reddit.com/r/programming/comments/5fjjej/i_made_this_a_multiplayer_game_where_you_code_to/>
+    - <http://www.halite.io/>
+    - <http://www.codetition.com/>
 -   <http://gvgai.net/>
 -   <http://togelius.blogspot.com.br/2016/01/why-video-games-are-essential-for.html> Researcher on this exact domain.
     - <https://www.reddit.com/r/artificial/comments/40kg3b/why_video_games_are_essential_for_inventing/>
@@ -112,12 +116,14 @@ Existing research in the area.
         -   By people of Poznam, Poland:
             - https://github.com/Marqt
             - https://github.com/ebonyclock
+        - <https://www.engadget.com/2016/09/22/facebook-and-intel-reign-supreme-in-doom-ai-deathmatch/>
     -   <http://botprize.org/>
         - <https://www.youtube.com/watch?v=mUNfjMDhCpM>
     -   <http://www.doc.ic.ac.uk/teaching/distinguished-projects/2011/p.lipka.pdf>
         - <https://www.linkedin.com/in/peter-lipka-763aba5b>
         - <http://improbable.io/> Saw this on TechCrunch before. Hot stuff.
         - <https://www.linkedin.com/company/3011959?trk=prof-exp-company-name>
+    -   DeepMind <https://www.youtube.com/watch?v=nMR5mjCFZCw>
 -   Racing. TODO: what is the current human vs machine state?
     - <https://www.youtube.com/watch?v=_XKphuYviE0>
     - <https://blogs.msdn.microsoft.com/shawnhar/2009/12/29/bug-or-feature/>
@@ -158,6 +164,10 @@ Possible games we could use.
         - <https://en.wikipedia.org/wiki/Lion_%28video_game%29>
         - gameplay <https://www.youtube.com/watch?v=opDch4j8Bt8>
     -   <http://agar.io/>
+    -   <https://www.youtube.com/watch?v=hbVUF5b307s> Bear simulator 2016
+        - <http://kotaku.com/successful-100-000-kickstarter-dev-calls-it-quits-due-1763162848>
+        - <http://bearsimulator.com/>
+        - 100k kick-starter, but closed source?
 -   tier 2 / under evaluation
     -   https://www.youtube.com/watch?v=gYZyyWwqdiw
     -   http://jobsimulatorgame.com/
@@ -170,6 +180,7 @@ Possible games we could use.
         -   2D bird swarm simulation https://www.youtube.com/watch?v=M028vafB0l8
         -   evolution body structure
             - carykh car evolution simulator https://www.youtube.com/watch?v=GOFws_hhZs8
+            - Terrain-Adaptive Locomotion Skills Using Deep Reinforcement Learning (SIGGRAPH 2016) <https://www.youtube.com/watch?v=KPfzRSBzNX4>
         -   evolution of brain:
             - Evolved Step Climbing Creatures https://www.youtube.com/watch?v=euFvRfQRbLI
 -   first person versions of 2D NES games:
@@ -193,6 +204,7 @@ Possible games we could use.
     - dwarf fortress
     - terraria
     - <http://www.particleplanet.com/>
+-   <http://stackoverflow.com/questions/6542274/how-to-train-an-artificial-neural-network-to-play-diablo-2-using-visual-input>
 
 ## Animal intelligence
 
@@ -213,10 +225,12 @@ Understanding animals could give insights into what our OpenCL intelligence shou
     - bear turns off electric power to eat deer: <https://www.youtube.com/watch?v=8eC9ZmCaIWY&feature=youtu.be>
 -   young humans:
     - <https://www.youtube.com/watch?v=R9QSBUrf94s>
+-   Skinner behaviourism experiments
+    - <https://www.youtube.com/watch?v=QKSvu3mj-14>
 
 ## Tools
 
-### Libraries
+## Libraries
 
 ### cuDNN
 
@@ -233,6 +247,8 @@ The key technical challenge of this project is keeping all calculations inside t
 
 - <http://code.tutsplus.com/tutorials/how-to-build-a-python-bot-that-can-play-web-games--active-11117>
 
+### Gazebo
+
 ## Events
 
 - <http://cig16.image.ece.ntua.gr/> University in Greece
@@ -243,3 +259,11 @@ The key technical challenge of this project is keeping all calculations inside t
 -   game ai
     -   <https://www.reddit.com/r/gameai>
     -   <http://theaigames.com/>
+
+## Keywords
+
+-   Photogrammetry <https://en.wikipedia.org/wiki/Photogrammetry>
+-   SLAM
+    - https://en.wikipedia.org/wiki/Simultaneous_localization_and_mapping
+    - https://github.com/pamela-project/slambench
+-   <https://en.wikipedia.org/wiki/Cognitive_robotics>
