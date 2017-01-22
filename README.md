@@ -1,6 +1,10 @@
 # GPU robot vision simulation full AI
 
-This is currently just a crazy project idea research, and does not have an implementation yet.
+This is currently just a crazy project idea research, and does not have a major implementation yet.
+
+Early stage prototypes:
+
+- <https://github.com/cirosantilli/general-game-ai>
 
 The goal is to make an open source game / series of games to be played *by computers*, to serve as interesting problems to develop [full AI ](https://en.wikipedia.org/wiki/Artificial_general_intelligence).
 
@@ -83,7 +87,7 @@ Mechanics ideas:
 
     The robot should have memory that he is chasing this single prey, and some type of understanding that things disappear from sight around corners, and then turn the corner as well.
 
--   discreet consequences to continuous action. E.g.: you touch a red wall: then a blue gate opens.
+-   discrete consequences to continuous action. E.g.: you touch a red wall: then a blue gate opens.
 
 -   topology:
 
@@ -97,6 +101,12 @@ Mechanics ideas:
 
 -   recognizing places: there is lots of food around the place with two trees. So I hang out around that place more often than others.
 
+Evil ideas:
+
+-   invisible objects. E.g.: Mario hidden blocks. Possibly controlled by agents, like camouflage in nature, or spy in Team Fortress.
+-   objects that look like other objects. E.g. a prey that looks like predator. Mimicry in nature: <https://en.wikipedia.org/wiki/Mimicry> Possibly via metamorphosis.
+-   two objects that look the same, but act very differently. Agent then has to identify which one it is.
+
 ## Literature
 
 Existing research in the area.
@@ -107,10 +117,12 @@ Existing research in the area.
     - <http://www.halite.io/>
     - <http://www.codetition.com/>
 -   <http://togelius.blogspot.co.uk/2016/07/which-games-are-useful-for-testing.html>
-    -   <http://gvgai.net/>
--   <http://togelius.blogspot.com.br/2016/01/why-video-games-are-essential-for.html> Researcher on this exact domain.
-    - <https://www.reddit.com/r/artificial/comments/40kg3b/why_video_games_are_essential_for_inventing/>
-    - <http://togelius.blogspot.fr/2016/03/switching-brains-and-putting-cart.html>
+    -  http://gvgai.net/>
+    - <https://www.youtube.com/channel/UCov_51F0betb6hJ6Gumxg3Q>
+    -   <http://togelius.blogspot.com.br/2016/01/why-video-games-are-essential-for.html> Researcher on this exact domain.
+        - <https://www.reddit.com/r/artificial/comments/40kg3b/why_video_games_are_essential_for_inventing/>
+        - <http://togelius.blogspot.fr/2016/03/switching-brains-and-putting-cart.html>
+        - AI & Games vlog by Scottish researcher Tommy Thompson <https://www.youtube.com/channel/UCov_51F0betb6hJ6Gumxg3Q>
 -   FPS
     -   2Ds are called top down shooters
     -   <http://vizdoom.cs.put.edu.pl/competition-cig-2016>
@@ -228,6 +240,10 @@ Understanding animals could give insights into what our OpenCL intelligence shou
     - <https://www.youtube.com/watch?v=R9QSBUrf94s>
 -   Skinner behaviourism experiments
     - <https://www.youtube.com/watch?v=QKSvu3mj-14>
+-   Watchmojo! <https://www.youtube.com/watch?v=eQMP74-XziI>
+    - dog agility (obstacle courses) <https://en.wikipedia.org/wiki/Dog_agility>
+        - <https://www.youtube.com/watch?v=ggsIU8rXubk>
+    - <https://www.youtube.com/watch?v=bT-fctr32pE> underwater bubble rings
 
 ## Tools
 
