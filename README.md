@@ -140,6 +140,8 @@ Existing research in the area.
 -   Racing. TODO: what is the current human vs machine state?
     - <https://www.youtube.com/watch?v=_XKphuYviE0>
     - <https://blogs.msdn.microsoft.com/shawnhar/2009/12/29/bug-or-feature/>
+-   Fighting games
+    - <http://www.ice.ci.ritsumei.ac.jp/~ftgaic/> FightingICE
 -   <https://www.quora.com/Artificial-Intelligence/How-hard-would-it-be-to-create-an-AI-to-successfully-solve-most-FPS-game-campaigns-today>
 -   <http://deepmind.com/>
     - <https://github.com/kuz/DeepMind-Atari-Deep-Q-Learner>
