@@ -159,6 +159,7 @@ Existing research in the area.
     - <http://gamedev.stackexchange.com/questions/60776/gpgpu-physics-game-logic>
 -   WebGL physics + rendering in GPU <http://nullprogram.com/blog/2014/06/29/>
 -   <http://www.uvm.edu/~ludobots/index.php>
+-   <https://www.riddles.io/>
 
 ## Possible games
 
