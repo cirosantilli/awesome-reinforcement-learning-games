@@ -15,7 +15,7 @@ We will however add an interactive human player mode so that humans can mess aro
 There are two central focuses:
 
 - use the GPU as much as possible
-- design game mechanics that are simplified versions of the real world, while retaining key aspects of the real world like perspective
+- design game mechanics that are simplified versions of the real world, while retaining key aspects of the real world like perspective. In particular, with focus on spacial, vision and control loops.
 
 ## GPU
 
@@ -111,11 +111,17 @@ Evil ideas:
 
 Existing research in the area.
 
+-   <https://gym.openai.com> most interesting set of hand made games I've seen so far since 2D focus, but no 2D Minecraft yet
+-   DeepMind Lab: <https://github.com/deepmind/lab> 3D focus, newbs :-) Labyrinth demo: <https://www.youtube.com/watch?v=M40rN7afngY>
+    - but they also do other more interesting things: <https://deepmind.com/blog/understanding-agent-cooperation/>
 -   <https://en.wikipedia.org/wiki/Competitions_and_prizes_in_artificial_intelligence#Games>
     - <https://www.quora.com/What-are-the-most-interesting-online-AI-competitions>
     - <http://www.machinegame.com/> <https://www.reddit.com/r/programming/comments/5fjjej/i_made_this_a_multiplayer_game_where_you_code_to/>
-    - <http://www.halite.io/>
     - <http://www.codetition.com/>
+    -   2D tile based games
+        - http://vindinium.org/ TODO source
+        - https://robotgame.net/login
+        - <http://www.halite.io/>
 -   <http://togelius.blogspot.co.uk/2016/07/which-games-are-useful-for-testing.html>
     -  http://gvgai.net/>
     - <https://www.youtube.com/channel/UCov_51F0betb6hJ6Gumxg3Q>
@@ -127,8 +133,8 @@ Existing research in the area.
     -   2Ds are called top down shooters
     -   <http://vizdoom.cs.put.edu.pl/competition-cig-2016>
         -   By people of Poznam, Poland:
-            - https://github.com/Marqt
-            - https://github.com/ebonyclock
+            - <https://github.com/Marqt>
+            - <https://github.com/ebonyclock>
         - <https://www.engadget.com/2016/09/22/facebook-and-intel-reign-supreme-in-doom-ai-deathmatch/>
     -   <http://botprize.org/>
         - <https://www.youtube.com/watch?v=mUNfjMDhCpM>
@@ -137,9 +143,11 @@ Existing research in the area.
         - <http://improbable.io/> Saw this on TechCrunch before. Hot stuff.
         - <https://www.linkedin.com/company/3011959?trk=prof-exp-company-name>
     -   DeepMind <https://www.youtube.com/watch?v=nMR5mjCFZCw>
--   Racing. TODO: what is the current human vs machine state?
+        - <https://deepmind.com/blog/understanding-agent-cooperation/>
+-   Racing. TODO: what is the current human vs machine state? Better be good if we want self driving cars!
     - <https://www.youtube.com/watch?v=_XKphuYviE0>
     - <https://blogs.msdn.microsoft.com/shawnhar/2009/12/29/bug-or-feature/>
+    - mario kart tensorflow <https://www.youtube.com/watch?v=vrccd3yeXnc>
 -   Fighting games
     - <http://www.ice.ci.ritsumei.ac.jp/~ftgaic/> FightingICE
 -   <https://www.quora.com/Artificial-Intelligence/How-hard-would-it-be-to-create-an-AI-to-successfully-solve-most-FPS-game-campaigns-today>
@@ -159,11 +167,21 @@ Existing research in the area.
     - <http://gamedev.stackexchange.com/questions/60776/gpgpu-physics-game-logic>
 -   WebGL physics + rendering in GPU <http://nullprogram.com/blog/2014/06/29/>
 -   <http://www.uvm.edu/~ludobots/index.php>
+<<<<<<< HEAD
 -   <https://www.riddles.io/>
+=======
+-   <https://github.com/GoodAI/BrainSimulator> tiny demo at: <https://www.youtube.com/watch?v=Mi8jgH2orP4>, but they are not very good at presenting results
+-   GPU path finding <https://www.youtube.com/watch?v=1OSXWhd3hvI>
+-   <https://en.wikipedia.org/wiki/Falling-sand_game>
+    -   <https://github.com/simtr/The-Powder-Toy>
+-   <https://screeps.com/> <https://www.youtube.com/watch?v=0DtltU9ozHI>
+-   AI game threads:
+    - <https://www.reddit.com/r/coding/comments/1pkemh/games_like_this_where_you_program_a_botai_and_it/>
+    - <http://stackoverflow.com/questions/25952/best-programming-based-games>
+    - <https://www.quora.com/What-are-some-video-games-where-you-can-program-AI>
+>>>>>>> bak
 
 ## Possible games
-
-### Realistic animal games
 
 Possible games we could use.
 
@@ -173,9 +191,8 @@ Possible games we could use.
     -   3d first person:
         -   <https://en.wikipedia.org/wiki/WolfQuest> 2011
             -   youtuber playing <https://www.youtube.com/watch?v=ck5BrLh2eqI>
-        -   Minecraft
-            -   <https://blogs.microsoft.com/next/2016/03/13/project-aix-using-minecraft-build-intelligent-technology/>
     -   iHasCupquake <https://www.youtube.com/channel/UCqg2eLFNUu3QN3dttNeOWkw> youtubber that reviews tons of games that have some potential
+    -   Aavak channel <https://www.youtube.com/channel/UCqvU9Uxf_8YJOq67S6qcrFw>, lots of survival / strategy games
     -   Third person;
         - <https://en.wikipedia.org/wiki/Lion_%28video_game%29>
         - gameplay <https://www.youtube.com/watch?v=opDch4j8Bt8>
@@ -184,6 +201,17 @@ Possible games we could use.
         - <http://kotaku.com/successful-100-000-kickstarter-dev-calls-it-quits-due-1763162848>
         - <http://bearsimulator.com/>
         - 100k kick-starter, but closed source?
+-   building / crafting focus:
+    -   Minecraft
+        - Malmo <https://blogs.microsoft.com/next/2016/03/13/project-aix-using-minecraft-build-intelligent-technology/>
+        - 2D versions
+            - minicraft
+                - https://www.youtube.com/watch?v=31byVUMTSTE
+                - https://github.com/shylor/miniventure
+                - originally by Notch for Ludum Dare: http://ludumdare.com/compo/ludum-dare-22/?action=preview&uid=398
+                - TODO originally for android?
+    -   http://playrust.com/
+    -   http://www.medievalengineers.com/ | http://www.spaceengineersgame.com/ both by same company, which founded Good AI with revenues
 -   tier 2 / under evaluation
     -   https://www.youtube.com/watch?v=gYZyyWwqdiw
     -   http://jobsimulatorgame.com/
@@ -199,6 +227,10 @@ Possible games we could use.
             - Terrain-Adaptive Locomotion Skills Using Deep Reinforcement Learning (SIGGRAPH 2016) <https://www.youtube.com/watch?v=KPfzRSBzNX4>
         -   evolution of brain:
             - Evolved Step Climbing Creatures https://www.youtube.com/watch?v=euFvRfQRbLI
+-   2D fighting games
+    -   smash bros:
+        - https://www.youtube.com/watch?v=2A34d2O_Zb0
+    - http://www.ice.ci.ritsumei.ac.jp/~ftgaic/ custom made for research
 -   first person versions of 2D NES games:
     -   Mario first person
         - https://github.com/olynch/fp_mario
@@ -221,6 +253,10 @@ Possible games we could use.
     - terraria
     - <http://www.particleplanet.com/>
 -   <http://stackoverflow.com/questions/6542274/how-to-train-an-artificial-neural-network-to-play-diablo-2-using-visual-input>
+-   <https://www.reddit.com/r/SurvivalGaming/comments/5501hy/best_topdown_2d_survival_game/>
+    - <https://github.com/CleverRaven/Cataclysm-DDA> open source, crafting, construction, hunger, etc. Humongous scope. Anything made on the genre will be a subset of that :-)
+-   actual old games:
+    -   http://www.pacmanvghosts.co.uk/ for research
 
 ## Animal intelligence
 
@@ -267,11 +303,17 @@ The key technical challenge of this project is keeping all calculations inside t
 
 - <http://code.tutsplus.com/tutorials/how-to-build-a-python-bot-that-can-play-web-games--active-11117>
 
-### Gazebo
+### Robot simulation
+
+- Gazebo
+- <https://github.com/openai/roboschool>
 
 ## Events
 
-- <http://cig16.image.ece.ntua.gr/> University in Greece
+-   <http://www.cig2017.com/competitions-cig-2017/>
+    -   <http://gaips.inesc-id.pt/geometryfriends/> 2D rigid body physics based
+    -   http://game.engineering.nyu.edu/showdown-ai-competition/ pokemon turn based fight
+-   <http://cig16.image.ece.ntua.gr/> University in Greece
 
 ## Misc
 
@@ -282,6 +324,7 @@ The key technical challenge of this project is keeping all calculations inside t
 
 ## Keywords
 
+-   AI evaluation platform
 -   Photogrammetry <https://en.wikipedia.org/wiki/Photogrammetry>
 -   SLAM
     - https://en.wikipedia.org/wiki/Simultaneous_localization_and_mapping
