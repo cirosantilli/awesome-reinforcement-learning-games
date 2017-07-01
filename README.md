@@ -144,6 +144,8 @@ Existing research in the area.
         - <https://www.linkedin.com/company/3011959?trk=prof-exp-company-name>
     -   DeepMind <https://www.youtube.com/watch?v=nMR5mjCFZCw>
         - <https://deepmind.com/blog/understanding-agent-cooperation/>
+        - <http://deepmind.com/>
+        - <https://github.com/kuz/DeepMind-Atari-Deep-Q-Learner>
 -   Racing. TODO: what is the current human vs machine state? Better be good if we want self driving cars!
     - <https://www.youtube.com/watch?v=_XKphuYviE0>
     - <https://blogs.msdn.microsoft.com/shawnhar/2009/12/29/bug-or-feature/>
@@ -151,8 +153,6 @@ Existing research in the area.
 -   Fighting games
     - <http://www.ice.ci.ritsumei.ac.jp/~ftgaic/> FightingICE
 -   <https://www.quora.com/Artificial-Intelligence/How-hard-would-it-be-to-create-an-AI-to-successfully-solve-most-FPS-game-campaigns-today>
--   <http://deepmind.com/>
-    - <https://github.com/kuz/DeepMind-Atari-Deep-Q-Learner>
     - BroadMind: <https://www.youtube.com/watch?v=wfL4L_l4U9A>
 -   MarI/O <https://www.youtube.com/watch?v=qv6UVOQ0F44>
     - <http://pastebin.com/ZZmSNaHX>
@@ -167,9 +167,7 @@ Existing research in the area.
     - <http://gamedev.stackexchange.com/questions/60776/gpgpu-physics-game-logic>
 -   WebGL physics + rendering in GPU <http://nullprogram.com/blog/2014/06/29/>
 -   <http://www.uvm.edu/~ludobots/index.php>
-<<<<<<< HEAD
 -   <https://www.riddles.io/>
-=======
 -   <https://github.com/GoodAI/BrainSimulator> tiny demo at: <https://www.youtube.com/watch?v=Mi8jgH2orP4>, but they are not very good at presenting results
 -   GPU path finding <https://www.youtube.com/watch?v=1OSXWhd3hvI>
 -   <https://en.wikipedia.org/wiki/Falling-sand_game>
@@ -179,7 +177,6 @@ Existing research in the area.
     - <https://www.reddit.com/r/coding/comments/1pkemh/games_like_this_where_you_program_a_botai_and_it/>
     - <http://stackoverflow.com/questions/25952/best-programming-based-games>
     - <https://www.quora.com/What-are-some-video-games-where-you-can-program-AI>
->>>>>>> bak
 
 ## Possible games
 
