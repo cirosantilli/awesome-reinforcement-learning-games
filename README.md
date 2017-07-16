@@ -177,6 +177,8 @@ Existing research in the area.
     - <https://www.reddit.com/r/coding/comments/1pkemh/games_like_this_where_you_program_a_botai_and_it/>
     - <http://stackoverflow.com/questions/25952/best-programming-based-games>
     - <https://www.quora.com/What-are-some-video-games-where-you-can-program-AI>
+-   walking rigid body robots
+    - DeepMind 2017 humanoid, spider, <https://www.youtube.com/watch?v=gn4nRCC9TwQ> <https://www.reddit.com/r/compsci/comments/6n0oev/google_deepminds_paper_explores_how_agents_can/>
 
 ## Possible games
 
