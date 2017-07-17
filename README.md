@@ -179,6 +179,7 @@ Existing research in the area.
     - <https://www.quora.com/What-are-some-video-games-where-you-can-program-AI>
 -   walking rigid body robots
     - DeepMind 2017 humanoid, spider, <https://www.youtube.com/watch?v=gn4nRCC9TwQ> <https://www.reddit.com/r/compsci/comments/6n0oev/google_deepminds_paper_explores_how_agents_can/>
+    - SIGGRAPH Asia 2013 Flexible Muscle-Based Locomotion for Bipedal Creatures <https://www.youtube.com/watch?v=pgaEE27nsQw>
 
 ## Possible games
 
