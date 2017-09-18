@@ -151,8 +151,6 @@ Existing research in the area.
     - <https://blogs.msdn.microsoft.com/shawnhar/2009/12/29/bug-or-feature/>
     - mario kart tensorflow <https://www.youtube.com/watch?v=vrccd3yeXnc>
     - <https://github.com/udacity/self-driving-car-sim>
--   Fighting games
-    - <http://www.ice.ci.ritsumei.ac.jp/~ftgaic/> FightingICE
 -   <https://www.quora.com/Artificial-Intelligence/How-hard-would-it-be-to-create-an-AI-to-successfully-solve-most-FPS-game-campaigns-today>
     - BroadMind: <https://www.youtube.com/watch?v=wfL4L_l4U9A>
 -   MarI/O <https://www.youtube.com/watch?v=qv6UVOQ0F44>
@@ -228,10 +226,15 @@ Possible games we could use.
             - Terrain-Adaptive Locomotion Skills Using Deep Reinforcement Learning (SIGGRAPH 2016) <https://www.youtube.com/watch?v=KPfzRSBzNX4>
         -   evolution of brain:
             - Evolved Step Climbing Creatures https://www.youtube.com/watch?v=euFvRfQRbLI
--   2D fighting games
-    -   smash bros:
-        - https://www.youtube.com/watch?v=2A34d2O_Zb0
-    - http://www.ice.ci.ritsumei.ac.jp/~ftgaic/ custom made for research
+-   2D continuous games
+    -   2D fighting
+        -   smash bros:
+            - https://www.youtube.com/watch?v=2A34d2O_Zb0
+        - http://www.ice.ci.ritsumei.ac.jp/~ftgaic/ custom made for research
+        -   Fighting games
+            - <http://www.ice.ci.ritsumei.ac.jp/~ftgaic/> FightingICE
+    -   Top down:
+        - Rocket league https://www.youtube.com/watch?v=iXSvDIayLCw closed source
 -   first person versions of 2D NES games:
     -   Mario first person
         - https://github.com/olynch/fp_mario
@@ -258,6 +261,8 @@ Possible games we could use.
     - <https://github.com/CleverRaven/Cataclysm-DDA> open source, crafting, construction, hunger, etc. Humongous scope. Anything made on the genre will be a subset of that :-)
 -   actual old games:
     -   http://www.pacmanvghosts.co.uk/ for research
+-   Open source game lists:
+    -   https://github.com/piranha/osgameclones/
 
 ## Animal intelligence
 
