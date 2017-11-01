@@ -150,6 +150,7 @@ Existing research in the area.
     - <https://www.youtube.com/watch?v=_XKphuYviE0>
     - <https://blogs.msdn.microsoft.com/shawnhar/2009/12/29/bug-or-feature/>
     - mario kart tensorflow <https://www.youtube.com/watch?v=vrccd3yeXnc>
+    - <https://github.com/udacity/self-driving-car-sim>
 -   Fighting games
     - <http://www.ice.ci.ritsumei.ac.jp/~ftgaic/> FightingICE
 -   <https://www.quora.com/Artificial-Intelligence/How-hard-would-it-be-to-create-an-AI-to-successfully-solve-most-FPS-game-campaigns-today>
