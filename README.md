@@ -69,6 +69,11 @@ Good game concepts should both:
 -   simplify the real world
     - we don't have enough computational power yet for reality
     - we don't know good AI algorithms yet, start with simpler problems first
+-   voxel or vector:
+    - the real world is actually voxel, which is tempting
+    - however, voxels are expensive to compute, therefore practical games we've seen so far:
+        - have voxels at least as large as the player. But 50% of our daily thinking is about things smaller than ourselves, e.g. food.
+        - have very limited voxel dynamics, e.g. no rotations
 
 Mechanics ideas:
 
@@ -179,6 +184,10 @@ Existing research in the area.
 -   walking rigid body robots
     - DeepMind 2017 humanoid, spider, <https://www.youtube.com/watch?v=gn4nRCC9TwQ> <https://www.reddit.com/r/compsci/comments/6n0oev/google_deepminds_paper_explores_how_agents_can/>
     - SIGGRAPH Asia 2013 Flexible Muscle-Based Locomotion for Bipedal Creatures <https://www.youtube.com/watch?v=pgaEE27nsQw>
+-   roguelike
+    - <https://github.com/krajj7/BotHack>
+    - <https://github.com/rogueinabox/rogueinabox> Python based and integrates with the major Python libs, relies on a system `rogue` executable, interacts through terminal scraping
+    - <https://github.com/cirosantilli/general-game-ai/tree/c1b1f143a5ef2ddf7ddb80cadbe47ee670013dd7>
 
 ## Possible games
 
@@ -226,7 +235,7 @@ Possible games we could use.
             - Terrain-Adaptive Locomotion Skills Using Deep Reinforcement Learning (SIGGRAPH 2016) <https://www.youtube.com/watch?v=KPfzRSBzNX4>
         -   evolution of brain:
             - Evolved Step Climbing Creatures https://www.youtube.com/watch?v=euFvRfQRbLI
--   2D continuous games
+-   2D continuous vector games
     -   2D fighting
         -   smash bros:
             - https://www.youtube.com/watch?v=2A34d2O_Zb0
@@ -252,10 +261,11 @@ Possible games we could use.
         -   https://www.youtube.com/watch?v=j94zTevuYZ8
         -   https://www.youtube.com/watch?v=qBUoeJZG03E
 -   simulation games, interesting for the world mechanics aspect, but possibly no FPS perspective vision aspect:
-    - http://dan-ball.jp/en/javagame/dust/366422.html
-    - dwarf fortress
-    - terraria
-    - <http://www.particleplanet.com/>
+    - voxel
+        - http://dan-ball.jp/en/javagame/dust/366422.html
+        - dwarf fortress
+        - terraria. Reversed simple map format and editors: <https://www.youtube.com/watch?v=uMtFHa-mZFE>
+        - <http://www.particleplanet.com/>
 -   <http://stackoverflow.com/questions/6542274/how-to-train-an-artificial-neural-network-to-play-diablo-2-using-visual-input>
 -   <https://www.reddit.com/r/SurvivalGaming/comments/5501hy/best_topdown_2d_survival_game/>
     - <https://github.com/CleverRaven/Cataclysm-DDA> open source, crafting, construction, hunger, etc. Humongous scope. Anything made on the genre will be a subset of that :-)
