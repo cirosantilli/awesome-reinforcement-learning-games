@@ -128,7 +128,7 @@ Existing research in the area.
         - https://robotgame.net/login
         - <http://www.halite.io/>
 -   <http://togelius.blogspot.co.uk/2016/07/which-games-are-useful-for-testing.html>
-    -  http://gvgai.net/>
+    - http://gvgai.net/
     - <https://www.youtube.com/channel/UCov_51F0betb6hJ6Gumxg3Q>
     -   <http://togelius.blogspot.com.br/2016/01/why-video-games-are-essential-for.html> Researcher on this exact domain.
         - <https://www.reddit.com/r/artificial/comments/40kg3b/why_video_games_are_essential_for_inventing/>
