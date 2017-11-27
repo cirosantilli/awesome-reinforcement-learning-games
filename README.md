@@ -188,11 +188,8 @@ Existing research in the area.
     - <https://github.com/krajj7/BotHack>
     - <https://github.com/rogueinabox/rogueinabox> Python based and integrates with the major Python libs, relies on a system `rogue` executable, interacts through terminal scraping
     - <https://github.com/cirosantilli/general-game-ai/tree/c1b1f143a5ef2ddf7ddb80cadbe47ee670013dd7>
-
-## Possible games
-
-Possible games we could use.
-
+-   code several bots to reach some goal, strategy RTS like: 
+    -   <https://empireofcode.com>
 -   <http://blog.otoro.net/2015/05/07/creatures-avoiding-planks/> 2D with perspective.
 -   <http://www.webearthonline.com/>
 -   <https://en.wikipedia.org/wiki/Life_simulation_game>
