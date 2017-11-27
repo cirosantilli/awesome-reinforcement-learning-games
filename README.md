@@ -127,6 +127,9 @@ Existing research in the area.
         - http://vindinium.org/ TODO source
         - https://robotgame.net/login
         - <http://www.halite.io/>
+    -   code several bots to reach some goal, strategy RTS like: 
+    -   <https://empireofcode.com>
+    -   <http://theaigames.com/> several games, most not every interested / too limited / artificial, but site goods good, VC backed?
 -   <http://togelius.blogspot.co.uk/2016/07/which-games-are-useful-for-testing.html>
     - http://gvgai.net/
     - <https://www.youtube.com/channel/UCov_51F0betb6hJ6Gumxg3Q>
@@ -188,8 +191,6 @@ Existing research in the area.
     - <https://github.com/krajj7/BotHack>
     - <https://github.com/rogueinabox/rogueinabox> Python based and integrates with the major Python libs, relies on a system `rogue` executable, interacts through terminal scraping
     - <https://github.com/cirosantilli/general-game-ai/tree/c1b1f143a5ef2ddf7ddb80cadbe47ee670013dd7>
--   code several bots to reach some goal, strategy RTS like: 
-    -   <https://empireofcode.com>
 -   <http://blog.otoro.net/2015/05/07/creatures-avoiding-planks/> 2D with perspective.
 -   <http://www.webearthonline.com/>
 -   <https://en.wikipedia.org/wiki/Life_simulation_game>
@@ -333,7 +334,6 @@ The key technical challenge of this project is keeping all calculations inside t
 -   <http://www.danielslater.net/> <http://www.danielslater.net/2015/12/how-to-run-learning-agents-against.html>
 -   game ai
     -   <https://www.reddit.com/r/gameai>
-    -   <http://theaigames.com/>
 
 ## Keywords
 
