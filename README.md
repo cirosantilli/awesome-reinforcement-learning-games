@@ -151,6 +151,7 @@ Existing research in the area.
         - <https://deepmind.com/blog/understanding-agent-cooperation/>
         - <http://deepmind.com/>
         - <https://github.com/kuz/DeepMind-Atari-Deep-Q-Learner>
+        - <https://github.com/deepmind/pycolab> minimalistic Python tile based games, terminal graphics, some algorithms implemented 
 -   Racing. TODO: what is the current human vs machine state? Better be good if we want self driving cars!
     - <https://www.youtube.com/watch?v=_XKphuYviE0>
     - <https://blogs.msdn.microsoft.com/shawnhar/2009/12/29/bug-or-feature/>
@@ -212,6 +213,8 @@ Possible games we could use.
 -   building / crafting focus:
     -   Minecraft
         - Malmo <https://blogs.microsoft.com/next/2016/03/13/project-aix-using-minecraft-build-intelligent-technology/>
+        - Open source clones:
+            - https://github.com/fogleman/Minecraft 1Kloc pyglet-only no inventory
         - 2D versions
             - minicraft
                 - https://www.youtube.com/watch?v=31byVUMTSTE
