@@ -157,7 +157,8 @@ Existing research in the area.
 -   Racing. TODO: what is the current human vs machine state? Better be good if we want self driving cars!
     - <https://www.youtube.com/watch?v=_XKphuYviE0>
     - <https://blogs.msdn.microsoft.com/shawnhar/2009/12/29/bug-or-feature/>
-    - mario kart tensorflow <https://www.youtube.com/watch?v=vrccd3yeXnc>
+    - mario kart 64 tensorflow <https://www.youtube.com/watch?v=vrccd3yeXnc>
+    - super mario kart using marI/O by Seth Bling https://www.youtube.com/watch?v=S9Y_I9vY8Qw
     - <https://github.com/udacity/self-driving-car-sim>
 -   <https://www.quora.com/Artificial-Intelligence/How-hard-would-it-be-to-create-an-AI-to-successfully-solve-most-FPS-game-campaigns-today>
     - BroadMind: <https://www.youtube.com/watch?v=wfL4L_l4U9A>
