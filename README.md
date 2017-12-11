@@ -5,6 +5,7 @@ This is currently just a crazy project idea research, and does not have a major 
 Early stage prototypes:
 
 - <https://github.com/cirosantilli/general-game-ai>
+- <https://github.com/cirosantilli/Urho3D-cheat>
 
 The goal is to make an open source game / series of games to be played *by computers*, to serve as interesting problems to develop [full AI ](https://en.wikipedia.org/wiki/Artificial_general_intelligence).
 
