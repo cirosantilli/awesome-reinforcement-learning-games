@@ -347,3 +347,11 @@ The key technical challenge of this project is keeping all calculations inside t
     - https://en.wikipedia.org/wiki/Simultaneous_localization_and_mapping
     - https://github.com/pamela-project/slambench
 -   <https://en.wikipedia.org/wiki/Cognitive_robotics>
+
+## Spacial hardware
+
+I hereby predict that in the future, if we ever reach full AI, we will have specialized integrated circuits that interpret 3D space somehow.
+
+Here are my current findings:
+
+- <https://www.youtube.com/watch?v=Ng6zy7hI64A> FPGA implementation, Duke publicity: <http://pratt.duke.edu/news/robotic-motion-planning-real-time>, DARPA funded and they made a startup out of it: <https://www.linkedin.com/in/daniel-sorin-ab056a4/> <http://rtr.ai/> so everything must be closed source.
