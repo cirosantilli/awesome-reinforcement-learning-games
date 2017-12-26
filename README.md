@@ -129,9 +129,9 @@ Existing research in the area.
         - http://vindinium.org/ TODO source
         - https://robotgame.net/login
         - <http://www.halite.io/>
-    -   code several bots to reach some goal, strategy RTS like: 
-    -   <https://empireofcode.com>
-    -   <http://theaigames.com/> several games, most not every interested / too limited / artificial, but site goods good, VC backed?
+    -   code several bots to reach some goal, strategy-RTS-like:
+        -   <https://empireofcode.com>
+    -   <http://theaigames.com/> several games, most not every interesting / too limited / artificial, but site goods good, VC backed?
 -   <http://togelius.blogspot.co.uk/2016/07/which-games-are-useful-for-testing.html>
     - http://gvgai.net/
     - <https://www.youtube.com/channel/UCov_51F0betb6hJ6Gumxg3Q>
