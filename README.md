@@ -118,6 +118,7 @@ Evil ideas:
 Existing research in the area.
 
 -   <https://gym.openai.com> most interesting set of hand made games I've seen so far since 2D focus, but no 2D Minecraft yet
+    - <https://github.com/rll/rllab> TODO what value does it add on top of Gym?
 -   DeepMind Lab: <https://github.com/deepmind/lab> 3D focus, newbs :-) Labyrinth demo: <https://www.youtube.com/watch?v=M40rN7afngY>
     - but they also do other more interesting things: <https://deepmind.com/blog/understanding-agent-cooperation/>
 -   <https://en.wikipedia.org/wiki/Competitions_and_prizes_in_artificial_intelligence#Games>
