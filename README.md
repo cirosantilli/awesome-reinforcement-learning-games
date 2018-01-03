@@ -121,6 +121,7 @@ Existing research in the area.
     - <https://github.com/rll/rllab> TODO what value does it add on top of Gym?
 -   DeepMind Lab: <https://github.com/deepmind/lab> 3D focus, newbs :-) Labyrinth demo: <https://www.youtube.com/watch?v=M40rN7afngY>
     - but they also do other more interesting things: <https://deepmind.com/blog/understanding-agent-cooperation/>
+    - <https://github.com/deepmind/dm_control> continuous control problems. Mujoco based.
 -   <https://en.wikipedia.org/wiki/Competitions_and_prizes_in_artificial_intelligence#Games>
     - <https://www.quora.com/What-are-the-most-interesting-online-AI-competitions>
     - <http://www.machinegame.com/> <https://www.reddit.com/r/programming/comments/5fjjej/i_made_this_a_multiplayer_game_where_you_code_to/>
