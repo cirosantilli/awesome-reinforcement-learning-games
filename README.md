@@ -251,7 +251,7 @@ Existing research in the area.
     -   Top down:
         - Rocket league https://www.youtube.com/watch?v=iXSvDIayLCw closed source
 -   3D fightging:
-    - https://en.wikipedia.org/wiki/Toribash
+    - https://en.wikipedia.org/wiki/Toribash | https://www.researchgate.net/publication/228848637_Optimising_offensive_moves_in_toribash_using_a_genetic_algorithm
 -   first person versions of 2D NES games:
     -   Mario first person
         - https://github.com/olynch/fp_mario
