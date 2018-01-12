@@ -250,6 +250,8 @@ Existing research in the area.
             - <http://www.ice.ci.ritsumei.ac.jp/~ftgaic/> FightingICE
     -   Top down:
         - Rocket league https://www.youtube.com/watch?v=iXSvDIayLCw closed source
+-   3D fightging:
+    - https://en.wikipedia.org/wiki/Toribash
 -   first person versions of 2D NES games:
     -   Mario first person
         - https://github.com/olynch/fp_mario
