@@ -282,6 +282,10 @@ Existing research in the area.
 -   Open source game lists:
     -   https://github.com/piranha/osgameclones/
 
+## Channels that play interesting games
+
+- <https://www.youtube.com/channel/UCf2ocK7dG_WFUgtDtrKR4rw>
+
 ## Animal intelligence
 
 Understanding animals could give insights into what our OpenCL intelligence should look like.
