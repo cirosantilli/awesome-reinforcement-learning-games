@@ -123,6 +123,13 @@ Existing research in the area.
 -   DeepMind Lab: <https://github.com/deepmind/lab> 3D focus, newbs :-) Labyrinth demo: <https://www.youtube.com/watch?v=M40rN7afngY>
     - but they also do other more interesting things: <https://deepmind.com/blog/understanding-agent-cooperation/>
     - <https://github.com/deepmind/dm_control> continuous control problems. Mujoco based.
+-   <http://togelius.blogspot.co.uk/2016/07/which-games-are-useful-for-testing.html>
+    - <http://gvgai.net/> top down discrete games to be played by a single bot. New games released every year for the newest competition, coders don't know the game until the end of the contest.
+    - <https://www.youtube.com/channel/UCov_51F0betb6hJ6Gumxg3Q>
+    -   <http://togelius.blogspot.com.br/2016/01/why-video-games-are-essential-for.html> Researcher on this exact domain.
+        - <https://www.reddit.com/r/artificial/comments/40kg3b/why_video_games_are_essential_for_inventing/>
+        - <http://togelius.blogspot.fr/2016/03/switching-brains-and-putting-cart.html>
+        - AI & Games vlog by Scottish researcher Tommy Thompson <https://www.youtube.com/channel/UCov_51F0betb6hJ6Gumxg3Q>
 -   <https://en.wikipedia.org/wiki/Competitions_and_prizes_in_artificial_intelligence#Games>
     - <https://www.quora.com/What-are-the-most-interesting-online-AI-competitions>
     - <http://www.machinegame.com/> <https://www.reddit.com/r/programming/comments/5fjjej/i_made_this_a_multiplayer_game_where_you_code_to/>
@@ -134,13 +141,7 @@ Existing research in the area.
     -   code several bots to reach some goal, strategy-RTS-like:
         -   <https://empireofcode.com>
     -   <http://theaigames.com/> several games, most not every interesting / too limited / artificial, but site goods good, VC backed?
--   <http://togelius.blogspot.co.uk/2016/07/which-games-are-useful-for-testing.html>
-    - http://gvgai.net/
-    - <https://www.youtube.com/channel/UCov_51F0betb6hJ6Gumxg3Q>
-    -   <http://togelius.blogspot.com.br/2016/01/why-video-games-are-essential-for.html> Researcher on this exact domain.
-        - <https://www.reddit.com/r/artificial/comments/40kg3b/why_video_games_are_essential_for_inventing/>
-        - <http://togelius.blogspot.fr/2016/03/switching-brains-and-putting-cart.html>
-        - AI & Games vlog by Scottish researcher Tommy Thompson <https://www.youtube.com/channel/UCov_51F0betb6hJ6Gumxg3Q>
+-   https://codekingdoms.com/ Minecraft modding on browser, non free of course.
 -   FPS
     -   2Ds are called top down shooters
     -   <http://vizdoom.cs.put.edu.pl/competition-cig-2016>
