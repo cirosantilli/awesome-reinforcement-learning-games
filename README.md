@@ -335,8 +335,10 @@ The key technical challenge of this project is keeping all calculations inside t
 ### Robot simulation
 
 - <http://gazebosim.org/>
+  - <https://github.com/erlerobot/gym-gazebo>
 - <https://github.com/opensim-org/opensim-core>
 - <https://github.com/openai/roboschool>
+- <- <https://github.com/dartsim/dart>
 
 ## Events
 
