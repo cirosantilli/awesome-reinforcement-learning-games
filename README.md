@@ -131,6 +131,11 @@ Existing research in the area.
         - <http://togelius.blogspot.fr/2016/03/switching-brains-and-putting-cart.html>
         - AI & Games vlog by Scottish researcher Tommy Thompson <https://www.youtube.com/channel/UCov_51F0betb6hJ6Gumxg3Q>
 -   <https://github.com/ntasfi/PyGame-Learning-Environment> varied game set built on Pygame with a bot sensor / controller interface 
+-   DeepMind <https://www.youtube.com/watch?v=nMR5mjCFZCw>
+    - <https://deepmind.com/blog/understanding-agent-cooperation/>
+    - <http://deepmind.com/>
+    - <https://github.com/kuz/DeepMind-Atari-Deep-Q-Learner>
+    - <https://github.com/deepmind/pycolab> minimalistic Python tile based games, terminal graphics, some algorithms implemented 
 -   <https://en.wikipedia.org/wiki/Competitions_and_prizes_in_artificial_intelligence#Games>
     - <https://www.quora.com/What-are-the-most-interesting-online-AI-competitions>
     - <http://www.machinegame.com/> <https://www.reddit.com/r/programming/comments/5fjjej/i_made_this_a_multiplayer_game_where_you_code_to/>
@@ -156,11 +161,6 @@ Existing research in the area.
         - <https://www.linkedin.com/in/peter-lipka-763aba5b>
         - <http://improbable.io/> Saw this on TechCrunch before. Hot stuff.
         - <https://www.linkedin.com/company/3011959?trk=prof-exp-company-name>
-    -   DeepMind <https://www.youtube.com/watch?v=nMR5mjCFZCw>
-        - <https://deepmind.com/blog/understanding-agent-cooperation/>
-        - <http://deepmind.com/>
-        - <https://github.com/kuz/DeepMind-Atari-Deep-Q-Learner>
-        - <https://github.com/deepmind/pycolab> minimalistic Python tile based games, terminal graphics, some algorithms implemented 
 -   Racing. TODO: what is the current human vs machine state? Better be good if we want self driving cars!
     - <https://www.youtube.com/watch?v=_XKphuYviE0>
     - <https://blogs.msdn.microsoft.com/shawnhar/2009/12/29/bug-or-feature/>
