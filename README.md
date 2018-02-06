@@ -130,7 +130,7 @@ Existing research in the area.
         - <https://www.reddit.com/r/artificial/comments/40kg3b/why_video_games_are_essential_for_inventing/>
         - <http://togelius.blogspot.fr/2016/03/switching-brains-and-putting-cart.html>
         - AI & Games vlog by Scottish researcher Tommy Thompson <https://www.youtube.com/channel/UCov_51F0betb6hJ6Gumxg3Q>
--   <https://github.com/ntasfi/PyGame-Learning-Environment> varied game set built on Pygame with a bot sensor / controller interface 
+-   <https://github.com/ntasfi/PyGame-Learning-Environment> varied game set built on Pygame with a bot sensor / controller interface. Not many games, and the games are not homogenous, mechanis vary widely: <http://pygame-learning-environment.readthedocs.io/en/latest/user/games.html>
 -   DeepMind <https://www.youtube.com/watch?v=nMR5mjCFZCw>
     - <https://deepmind.com/blog/understanding-agent-cooperation/>
     - <http://deepmind.com/>
