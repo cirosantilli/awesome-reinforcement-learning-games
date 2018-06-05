@@ -9,7 +9,7 @@
 :toclevels: 6
 :toc-title:
 
-Ideas for games that serve as interesting reinforcement learning problems, and how to solve them.
+Ideas for games that serve as interesting vison / spacial / robotics reinforcement learning problems, and how to solve them.
 
 toc::[]
 
