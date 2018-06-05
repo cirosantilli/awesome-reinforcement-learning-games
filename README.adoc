@@ -13,14 +13,16 @@ Ideas for games that serve as interesting reinforcement learning problems, and h
 
 toc::[]
 
+== Prototypes
+
+Early stage prototypes that go towards the vision presented in this repo:
+
+* https://github.com/cirosantilli/general-game-ai Discrete 2D. Demo video: https://www.youtube.com/watch?v=TQ5k2u25eI8&t=9s
+* https://github.com/cirosantilli/Urho3D-cheat/blob/master/food.cpp Continuous 2D demo video: https://www.youtube.com/watch?v=j_fl4xoGTKU&t=5s
+
 == Introduction
 
 This is currently just a crazy project idea research, and does not have a major implementation yet.
-
-Early stage prototypes:
-
-* https://github.com/cirosantilli/general-game-ai
-* https://github.com/cirosantilli/Urho3D-cheat
 
 The goal is to make an open source game / series of games to be played _by computers_, to serve as interesting problems to develop https://en.wikipedia.org/wiki/Artificial_general_intelligence[full AI].
 
