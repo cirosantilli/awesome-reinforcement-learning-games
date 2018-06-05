@@ -35,14 +35,15 @@ The central focus is find or design games that are:
 * simplified versions of the real world, to allow us to simulate it fast enough
 * while still retaining key aspects of the real world like:
 ** vision, perspective, Euclidean space and time
-** but still has magic non spacial elements (which in the real world are usually chemical reactions). E.g.: your beef tastes better after you put it in the fire.
+** but still has magic non spacial elements (which in the real world are usually chemical reactions). E.g.:
+*** your beef tastes better after you put it in the fire
 
 The goal is to introduce more and more complex mechanics one by one progressively, and try to introduce mechanics such that:
 
 * humans are able to solve the problem
 * the existing AIs were not able to solve the problem
 
-in order to force AI developperes to make smarter AIs that look more like humans.
+in order to break the AIs and force AI developperes to make smarter AIs that look more like humans.
 
 AIs should then be tested against mechanics that they have not trained against, much like in: http://www.gvgai.net/
 
