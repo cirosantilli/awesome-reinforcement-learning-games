@@ -140,6 +140,7 @@ Existing research in the area.
 * DeepMind Lab: https://github.com/deepmind/lab 3D focus, newbs :-) Labyrinth demo: https://www.youtube.com/watch?v=M40rN7afngY
 ** but they also do other more interesting things: https://deepmind.com/blog/understanding-agent-cooperation/
 ** https://github.com/deepmind/dm_control continuous control problems. Mujoco based.
+** https://deepmind.com/blog/capture-the-flag/
 * http://togelius.blogspot.co.uk/2016/07/which-games-are-useful-for-testing.html
 ** http://gvgai.net/ top down discrete games to be played by a single bot. New games released every year for the newest competition, coders don't know the game until the end of the contest.
 ** https://www.youtube.com/channel/UCov_51F0betb6hJ6Gumxg3Q
