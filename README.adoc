@@ -141,8 +141,10 @@ Existing research in the area.
 ** but they also do other more interesting things: https://deepmind.com/blog/understanding-agent-cooperation/
 ** https://github.com/deepmind/dm_control continuous control problems. Mujoco based.
 ** https://deepmind.com/blog/capture-the-flag/
+* top down 2D disrete grid games
+** http://gvgai.net/ New games released every year for the newest competition, coders don't know the game until the end of the contest.
+** https://github.com/maximecb/gym-minigrid
 * http://togelius.blogspot.co.uk/2016/07/which-games-are-useful-for-testing.html
-** http://gvgai.net/ top down discrete games to be played by a single bot. New games released every year for the newest competition, coders don't know the game until the end of the contest.
 ** https://www.youtube.com/channel/UCov_51F0betb6hJ6Gumxg3Q
 ** http://togelius.blogspot.com.br/2016/01/why-video-games-are-essential-for.html Researcher on this exact domain.
 *** https://www.reddit.com/r/artificial/comments/40kg3b/why_video_games_are_essential_for_inventing/
@@ -333,6 +335,10 @@ Understanding animals could give insights into what our OpenCL intelligence shou
 ** dog agility (obstacle courses) https://en.wikipedia.org/wiki/Dog_agility
 *** https://www.youtube.com/watch?v=ggsIU8rXubk
 ** https://www.youtube.com/watch?v=bT-fctr32pE underwater bubble rings
+* https://www.youtube.com/watch?v=-KSryJXDpZo Capuchin monkey fairness experiment, give grape to one, cucumber to other for same tasks, both see what the other gets.
+* https://www.youtube.com/watch?v=2BYJf2xSONc for ce collaboration to reach goal, one controls spoils, see if they share.
+* https://youtu.be/GcJxRqTs5nk?t=230 two chimps must pull heavy food box together
+* https://youtu.be/GcJxRqTs5nk?t=668 two tokens, one benefits both agents, the other only one
 
 == Tools
 
