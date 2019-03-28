@@ -182,6 +182,7 @@ Existing research in the area.
 *** http://improbable.io/ Saw this on TechCrunch before. Hot stuff.
 *** https://www.linkedin.com/company/3011959?trk=prof-exp-company-name
 * Racing. TODO: what is the current human vs machine state? Better be good if we want self driving cars!
+** https://www.nvidia.com/en-gb/self-driving-cars/drive-constellation/ NVIDIA Drive Constellation, announced 2019, photo-relistic self-driving simulation
 ** https://www.youtube.com/watch?v=_XKphuYviE0
 ** https://blogs.msdn.microsoft.com/shawnhar/2009/12/29/bug-or-feature/
 ** mario kart 64 tensorflow https://www.youtube.com/watch?v=vrccd3yeXnc
