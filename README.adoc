@@ -169,6 +169,9 @@ Existing research in the area.
 *** https://empireofcode.com
 ** http://theaigames.com/ several games, most not every interesting / too limited / artificial, but site goods good, VC backed?
 * https://codekingdoms.com/ Minecraft modding on browser, non free of course.
+* Primer
+** https://github.com/Helpsypoo/primer
+** https://www.youtube.com/watch?v=YNMkADpvO4w
 * FPS
 ** 2Ds are called top down shooters
 ** http://vizdoom.cs.put.edu.pl/competition-cig-2016
