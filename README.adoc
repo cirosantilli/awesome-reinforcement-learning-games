@@ -170,8 +170,10 @@ Existing research in the area.
 ** http://theaigames.com/ several games, most not every interesting / too limited / artificial, but site goods good, VC backed?
 * https://codekingdoms.com/ Minecraft modding on browser, non free of course.
 * Primer
-** https://github.com/Helpsypoo/primer
-** https://www.youtube.com/watch?v=YNMkADpvO4w
+** https://www.youtube.com/watch?v=YNMkADpvO4w publishes good eductational 2D continuous simulation videos with similar goals as this repo
+** https://github.com/Helpsypoo/primer TODO does that contain all the simulation sources, or are there closed parts? Description says Unity based.
++
+Even if closed, the game ideas are valid and interesting;.
 * FPS
 ** 2Ds are called top down shooters
 ** http://vizdoom.cs.put.edu.pl/competition-cig-2016
